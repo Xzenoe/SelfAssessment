@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux h
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS h
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
