@@ -1,27 +1,27 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
+  - Model k
+  - Modeling k
+  - Subject domain k
   - Algorithm k
   - Syntax k
   - Semantics
   - Abstraction
-  - Paradigm
+  - Paradigm k
   - Programm k
   - Programming paradigm
-  - Programming language
+  - Programming language k
   - Contract
-  - Module
-  - Library
-  - Package
-  - Component
+  - Module k
+  - Library k
+  - Package k
+  - Component k
   - Framework
   - Platform
   - Source code k
-  - Object code
-  - Machine code
+  - Object code k
+  - Machine code k
   - Microcode
   - Software engineering
   - Decomposition
@@ -32,39 +32,39 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value k
-  - Identifier k
-  - Variable k
-  - Constant h
-  - Scalar h
-  - Literal
-  - Expression
-  - Heap
-  - Function
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
+  - Scalar u
+  - Literal k
+  - Expression k
+  - Heap h
+  - Function u
   - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
+  - Method k
+  - Class u
+  - Prototype u
+  - Event h
+  - Type h
   - Flag
   - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
+  - Code block h
+  - Conditions u
+  - Loops u
   - Assignment
-  - Regular expression
+  - Regular expression u
   - Interface
-  - Namespaces
+  - Namespaces u
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
-  - Return early
-  - Fail-fast
+  - Camel case u
+  - Snake case k
+  - Kebab case k
+  - Trailing commas u
+  - Return early u
+  - Fail-fast u
 - Types
   - Primitive types
   - Reference types
@@ -81,22 +81,22 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
+  - Signature u
+  - Argument u
+  - Parameter u
+  - Pure function u
   - Lambda expression
-  - Side effects
+  - Side effects e
   - Closure
   - Partial application
-  - Currying
-  - Higher order
-  - Recursion
+  - Currying u
+  - Higher order u
+  - Recursion u
   - Tail call optimisation
   - Callback
   - Listener
-  - Composition
-  - Pipe
+  - Composition u
+  - Pipe k
   - Memoize
   - Wrapper
   - Functor
@@ -105,12 +105,12 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array k
+  - Array u
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
+  - Object u
   - Collection
   - Set
   - Hash table
@@ -118,14 +118,14 @@
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue k
+  - Stack k
   - Deque
   - Tree
   - Graph
   - Iterator
-  - Mutable state
-  - Immutable state
+  - Mutable state k
+  - Immutable state k
   - Serialization
   - String parsing
   - JSON
@@ -142,9 +142,9 @@
   - URN
   - URI
 - Process and tools
-  - Compiler k
-  - Just-in-time compilation
-  - Ahead-of-time compilation
+  - Compiler u
+  - Just-in-time compilation u
+  - Ahead-of-time compilation k
   - Transpiler
   - Linter
   - Polyfill
@@ -159,11 +159,11 @@
   - Containerization
   - Debugger
   - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
+  - Garbage collection k
+  - Refactoring u
+  - Code review u
   - Exception
-  - Unittesting
+  - Unittesting k
   - git h
   - Github h
   - Docker
@@ -174,32 +174,32 @@
   - Magic numbers
   - Hard code
   - Soft code
-  - Cryptic code h
-  - Improbability factor
-  - Accidental complexity
+  - Cryptic code u
+  - Improbability factor u
+  - Accidental complexity u
   - Action at a distance
-  - Spaghetti h
-  - Silver bullet
-  - Not invented here
-  - Dead code h
+  - Spaghetti k
+  - Silver bullet u
+  - Not invented here u
+  - Dead code k
   - Unreachable code
   - Duplicate code
   - Premature optimization
   - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters
+  - Nested loops u
+  - Long method/function/procedure u
+  - Long inheritance u
+  - Large class/file u
+  - Too many parameters u
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case k
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
   - Data clump
   - Feature envy
-  - Monkey patch
+  - Monkey patch k
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux k
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS h
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
