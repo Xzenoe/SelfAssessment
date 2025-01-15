@@ -4,12 +4,12 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm k
+  - Syntax k
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm
+  - Programm k
   - Programming paradigm
   - Programming language
   - Contract
@@ -19,7 +19,7 @@
   - Component
   - Framework
   - Platform
-  - Source code
+  - Source code k
   - Object code
   - Machine code
   - Microcode
@@ -32,11 +32,11 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
+  - Value k
+  - Identifier k
+  - Variable k
+  - Constant h
+  - Scalar h
   - Literal
   - Expression
   - Heap
@@ -105,7 +105,7 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array k
   - Structure
   - Record
   - Enum
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler k
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -164,8 +164,8 @@
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git h
+  - Github h
   - Docker
   - Kubernetes
   - GCC
@@ -174,14 +174,14 @@
   - Magic numbers
   - Hard code
   - Soft code
-  - Cryptic code
+  - Cryptic code h
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti h
   - Silver bullet
   - Not invented here
-  - Dead code
+  - Dead code h
   - Unreachable code
   - Duplicate code
   - Premature optimization
