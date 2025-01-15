@@ -214,7 +214,7 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux h
+  - Linux k
   - Unix
   - BSD
   - MacOS h
