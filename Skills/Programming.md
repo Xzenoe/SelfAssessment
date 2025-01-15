@@ -1,27 +1,27 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model k
-  - Modeling k
-  - Subject domain k
-  - Algorithm k
-  - Syntax k
+  - Model: 🎓 known
+  - Modeling: 🎓 known
+  - Subject domain: 🎓 known
+  - Algorithm: 🎓 known
+  - Syntax: 🎓 known
   - Semantics
   - Abstraction
-  - Paradigm k
-  - Programm k
+  - Paradigm: 🎓 known
+  - Programm: 🎓 known
   - Programming paradigm
-  - Programming language k
+  - Programming language: 🎓 known
   - Contract
-  - Module k
-  - Library k
-  - Package k
-  - Component k
+  - Module: 🎓 known
+  - Library: 🎓 known
+  - Package: 🎓 known
+  - Component: 🎓 known
   - Framework
   - Platform
-  - Source code k
-  - Object code k
-  - Machine code k
+  - Source code: 🎓 known
+  - Object code: 🎓 known
+  - Machine code: 🎓 known
   - Microcode
   - Software engineering
   - Decomposition
@@ -32,39 +32,39 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value u
-  - Identifier u
-  - Variable u
-  - Constant u
-  - Scalar u
-  - Literal k
-  - Expression k
-  - Heap h
-  - Function u
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
+  - Scalar: 🖐️ used
+  - Literal: 🎓 known
+  - Expression: 🎓 known
+  - Heap: 👂 heard
+  - Function: 🖐️ used
   - Procedure
-  - Method k
-  - Class u
-  - Prototype u
-  - Event h
-  - Type h
+  - Method: 🎓 known
+  - Class: 🖐️ used
+  - Prototype: 🖐️ used
+  - Event: 👂 heard
+  - Type: 👂 heard
   - Flag
   - Lexical scope
-  - Code block h
-  - Conditions u
-  - Loops u
+  - Code block: 👂 heard
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
   - Assignment
-  - Regular expression u
+  - Regular expression: 🖐️ used
   - Interface
-  - Namespaces u
+  - Namespaces: 🖐️ used
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case u
-  - Snake case k
-  - Kebab case k
-  - Trailing commas u
-  - Return early u
-  - Fail-fast u
+  - Camel case: 🖐️ used
+  - Snake case: 🎓 known
+  - Kebab case: 🎓 known
+  - Trailing commas: 🖐️ used
+  - Return early: 🖐️ used
+  - Fail-fast: 🖐️ used
 - Types
   - Primitive types
   - Reference types
@@ -81,22 +81,22 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature u
-  - Argument u
-  - Parameter u
-  - Pure function u
+  - Signature: 🖐️ used
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
+  - Pure function: 🖐️ used
   - Lambda expression
-  - Side effects e
+  - Side effects: 🙋 explained
   - Closure
   - Partial application
-  - Currying u
-  - Higher order u
-  - Recursion u
+  - Currying: 🖐️ used
+  - Higher order: 🖐️ used
+  - Recursion: 🖐️ used
   - Tail call optimisation
   - Callback
   - Listener
-  - Composition u
-  - Pipe k
+  - Composition: 🖐️ used
+  - Pipe: 🎓 known
   - Memoize
   - Wrapper
   - Functor
@@ -105,12 +105,12 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array u
+  - Array: 🖐️ used
   - Structure
   - Record
   - Enum
   - Instance
-  - Object u
+  - Object: 🖐️ used
   - Collection
   - Set
   - Hash table
@@ -118,14 +118,14 @@
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue k
-  - Stack k
+  - Queue: 🎓 known
+  - Stack: 🎓 known
   - Deque
   - Tree
   - Graph
   - Iterator
-  - Mutable state k
-  - Immutable state k
+  - Mutable state: 🎓 known
+  - Immutable state: 🎓 known
   - Serialization
   - String parsing
   - JSON
@@ -142,9 +142,9 @@
   - URN
   - URI
 - Process and tools
-  - Compiler u
-  - Just-in-time compilation u
-  - Ahead-of-time compilation k
+  - Compiler: 🖐️ used
+  - Just-in-time compilation: 🖐️ used
+  - Ahead-of-time compilation: 🎓 known
   - Transpiler
   - Linter
   - Polyfill
@@ -159,13 +159,13 @@
   - Containerization
   - Debugger
   - Tracing
-  - Garbage collection k
-  - Refactoring u
-  - Code review u
+  - Garbage collection: 🎓 known
+  - Refactoring: 🖐️ used
+  - Code review: 🖐️ used
   - Exception
-  - Unittesting k
-  - git h
-  - Github h
+  - Unittesting: 🎓 known
+  - git: 👂 heard
+  - Github: 👂 heard
   - Docker
   - Kubernetes
   - GCC
@@ -174,32 +174,32 @@
   - Magic numbers
   - Hard code
   - Soft code
-  - Cryptic code u
-  - Improbability factor u
-  - Accidental complexity u
+  - Cryptic code: 🖐️ used
+  - Improbability factor: 🖐️ used
+  - Accidental complexity: 🖐️ used
   - Action at a distance
-  - Spaghetti k
-  - Silver bullet u
-  - Not invented here u
-  - Dead code k
+  - Spaghetti: 🎓 known
+  - Silver bullet: 🖐️ used
+  - Not invented here: 🖐️ used
+  - Dead code: 🎓 known
   - Unreachable code
   - Duplicate code
   - Premature optimization
   - Micro-optimization
-  - Nested loops u
-  - Long method/function/procedure u
-  - Long inheritance u
-  - Large class/file u
-  - Too many parameters u
+  - Nested loops: 🖐️ used
+  - Long method/function/procedure: 🖐️ used
+  - Long inheritance: 🖐️ used
+  - Large class/file: 🖐️ used
+  - Too many parameters: 🖐️ used
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case k
+  - Use switch/case: 🎓 known
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
   - Data clump
   - Feature envy
-  - Monkey patch k
+  - Monkey patch: 🎓 known
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux k
+  - Linux: 🎓 known
   - Unix
   - BSD
-  - MacOS h
-  - Windows u
+  - MacOS: 👂 heard
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
